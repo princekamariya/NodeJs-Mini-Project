@@ -1,3 +1,4 @@
+
 # NodeJs-Mini-Project
 
 This Repository contains React Mini Projects that done during internship week 2.
@@ -46,8 +47,17 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/n1xmmmm)
+### Home Page 
 
-![App ScreenShot](https://ibb.co/r0KZMKT)
+![App ScreenShot](https://i.postimg.cc/tCdk2SsB/image.png)
+
+### After Sucessfully Subscribing Email
+
+![App Screenshot](https://i.postimg.cc/V65Zhjxd/image.png)
+
+Now User's Email and Name will be saved in MongoDB database
+##
+
+
 
 
